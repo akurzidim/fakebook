@@ -1,0 +1,91 @@
+* {
+    font-family: Verdana;
+}
+
+#wrapper {
+    width: 1024px;
+    margin: auto;
+}
+
+#profilbild {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: -80px;
+    border-radius: 100px;
+}
+
+#skills {
+    position: absolute;
+    width: 400px;
+    margin-top: 100px;
+    background-color: gainsboro;
+}
+
+#klz {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+}
+
+#cv {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 420px;
+    width: 604px;
+    height: 460px;
+}
+
+#cv1 {
+    position: absolute;
+    height: 120px;
+}
+    
+#description1 {
+    position: absolute;
+    margin-left: 160px;
+    width: 445px;
+    height: 100px;
+}
+
+#cv2 {
+    position: absolute;
+    height: 120px;
+    margin-top: 180px;
+}
+
+#description2 {
+    position: absolute;
+    margin-left: 160px;
+    width: 445px;
+    height: 100px;
+}
+
+#cv3 {
+    position: absolute;
+    height: 120px;
+    margin-top: 340px;
+}
+
+#description3 {
+    position: absolute;
+    margin-left: 160px;
+    width: 445px;
+    height: 100px;
+}
+
+#footer {
+    background-color: darkgrey;
+    position: absolute;
+    margin-top: 570px;
+    width: inherit;
+    color: white;
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
